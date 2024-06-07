@@ -64,12 +64,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=developerrajnish&show_icons=true&theme=dark&locale=en" alt="developerrajnish" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=developerrajnish&show_icons=true&theme=dark&locale=en&layout=compact" alt="developerrajnish" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Tripathirajnish&show_icons=true&theme=dark&locale=en" alt="Tripathirajnish" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tripathirajnish&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tripathirajnish" /></td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=developerrajnish" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tripathirajnish" alt="GitHub Streak" /></a>
 </div>
 
